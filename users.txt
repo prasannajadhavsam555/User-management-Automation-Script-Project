@@ -1,0 +1,4 @@
+Prasanna; devops,dataanalyst,testing
+ram; devops
+sai; ai
+rahul; intern
