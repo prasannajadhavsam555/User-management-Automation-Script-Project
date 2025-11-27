@@ -42,10 +42,15 @@ and for onboarding multiple users quickly.
 
 user-management-project/
 │
+
 ├── create_users.sh     → Main automation script
+
 ├── users.txt           → Input file (edit by yourself)
+
 └── logs/               → Auto-created folder at runtime
+
      ├── user_management.log
+     
      └── user_passwords.txt
 
 Note: You do NOT have to create the logs/ folder manually.
@@ -147,3 +152,4 @@ This project is free to use for learning and training purposes.
 You may modify or expand it as needed.
 
 END OF DOCUMENT
+
